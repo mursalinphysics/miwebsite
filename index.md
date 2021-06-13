@@ -21,6 +21,8 @@ cm,dvb,dsbv,dsvb
 - Bulleted
 - List
 
+$\pi \phi$
+
 1. Football
 2. Photography
 **kjcgascgasjc**
