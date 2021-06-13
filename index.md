@@ -21,7 +21,7 @@ cm,dvb,dsbv,dsvb
 - Bulleted
 - List
 
-$\pi \phi$
+\\[\pi \phi \\]
 
 1. Football
 2. Photography
